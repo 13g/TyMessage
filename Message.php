@@ -1,11 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: yinchao
- * Date: 2015/12/14
- * Time: 16:48
- */
-namespace TyMessage;
+namespace Yc13g\TyMessage;
 
 use Illuminate\Support\Facades\Facade as LaravelFacades;
 
