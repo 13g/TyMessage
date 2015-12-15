@@ -1,0 +1,26 @@
+{
+  "name": "Yc13g/TyMessage",
+  "description": "send message with Tianyi open platform",
+  "keywords": [
+    "laravel",
+    "message",
+    "Tianyi"
+  ],
+  "time": "2015-12-15",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yc13g",
+      "email": "739449334@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "illuminate/support": "5.1.*"
+  },
+  "autoload": {
+    "psr-0": {
+      "Yc13g\\TyMessage": "/"
+    }
+  }
+}
