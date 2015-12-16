@@ -19,8 +19,8 @@
     "illuminate/support": "5.1.*"
   },
   "autoload": {
-    "psr-0": {
-      "Yc13g\\TyMessage": "src/"
+    "psr-4": {
+      "Yc13g\\TyMessage": "src"
     }
   }
 }

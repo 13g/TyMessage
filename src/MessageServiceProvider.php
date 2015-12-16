@@ -19,7 +19,7 @@ class MessageServiceProvider extends ServiceProvider{
     public function boot()
     {
         $this->publishes([
-            __DIR__.'/tymessage.php' => config_path('tymessage.php')
+            __DIR__.'/../config/tymessage.php' => config_path('tymessage.php')
         ], 'config');
     }
 
