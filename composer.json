@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-0": {
-      "Yc13g\\TyMessage": "/"
+      "Yc13g\\TyMessage": "src/"
     }
   }
 }
