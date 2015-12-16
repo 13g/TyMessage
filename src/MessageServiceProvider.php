@@ -32,7 +32,7 @@ class MessageServiceProvider extends ServiceProvider{
     {
         //
         $this->app->bind('ty.message', function ($app) {
-            return new MessagePusher($app['config']['ty']);
+            return new MessagePusher($app['config']['tymessage']);
         });
     }
 
